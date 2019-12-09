@@ -159,7 +159,8 @@ class MyActionListener2 implements ActionListener{
 
 ## 4、程序截图：
 
-![image](https://github.com/ThingKingcc/Joker/blob/master/123.png)
+![image](https://github.com/ThingKingcc/shiyan5/blob/master/a.png)
+![image](https://github.com/ThingKingcc/shiyan5/blob/master/b.png)
 
 ## 5、实验总结：
 
